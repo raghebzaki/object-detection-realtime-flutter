@@ -32,7 +32,7 @@ dependencies:
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/yourprojectname.git # To clone the repo
+git clone https://github.com/raghebzaki/object-detection-realtime-flutter.git # To clone the repo
 cd yourprojectname # To go to the project directory
 flutter  pub  get  # To get dependencies
 ```
